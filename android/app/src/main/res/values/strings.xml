@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TRAINING.LOG</string>
+    <string name="title_activity_main">TRAINING.LOG</string>
+    <string name="package_name">com.tatah.traininglog</string>
+    <string name="custom_url_scheme">com.tatah.traininglog</string>
+</resources>

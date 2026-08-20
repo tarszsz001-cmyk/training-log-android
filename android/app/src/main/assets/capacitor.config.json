@@ -1,0 +1,8 @@
+{
+	"appId": "com.tatah.traininglog",
+	"appName": "TRAINING.LOG",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
